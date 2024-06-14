@@ -1,11 +1,13 @@
 # Robo-Cybertruck Project
 
-![Cybertruck](Cybertruck.JPG)
+![Cybertruck](Cybertruck.jpg)
 
 ## Team 6: Max Lee, Wenhan Tang, Hannes Du, and Sherry Tao
 
 ## Project Overview
 Our project, "Robo-Cybertruck," aims to create an autonomous vehicle capable of detecting low battery levels and navigating to a charging station using the Google Maps API. We also explored stretch goals such as self-parking and self-charging capabilities.
+
+![roboCybertruck](roboCybertruck.JPG)
 
 ### Must-Haves:
 - **Low Battery Detection:** Detect when the battery voltage drops below a certain threshold.
@@ -32,6 +34,8 @@ We designed a circuit that continuously checks for low battery voltage using a v
 - **Arduino Nano**
 - **LCD Screen**
 - **Passive Buzzer**
+
+![voltageReaderConfig](voltageReaderConfig.png)
 
 ### Hardware Implementation:
 - The hardware setup continuously monitors the battery voltage.
