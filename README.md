@@ -1,6 +1,6 @@
 # Robo-Cybertruck Project
 
-![Cybertruck](CYBERTRUCK.JPG)
+![Cybertruck](Cybertruck.JPG)
 
 ## Team 6: Max Lee, Wenhan Tang, Hannes Du, and Sherry Tao
 
